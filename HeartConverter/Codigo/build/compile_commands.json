@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/victor/NetBeansProjects/CARPConverter/build",
+  "command": "/usr/bin/g++   -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL)\" -DvtkRenderingVolume_AUTOINIT=\"1(vtkRenderingVolumeOpenGL)\" -I/usr/local/include/vtk-6.3 -isystem /usr/local/include    -g3 -gdwarf-2   -std=gnu++11 -o CMakeFiles/HeartConverter.dir/main.cpp.o -c /home/victor/NetBeansProjects/CARPConverter/main.cpp",
+  "file": "/home/victor/NetBeansProjects/CARPConverter/main.cpp"
+},
+{
+  "directory": "/home/victor/NetBeansProjects/CARPConverter/build",
+  "command": "/usr/bin/g++   -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL)\" -DvtkRenderingVolume_AUTOINIT=\"1(vtkRenderingVolumeOpenGL)\" -I/usr/local/include/vtk-6.3 -isystem /usr/local/include    -g3 -gdwarf-2   -std=gnu++11 -o CMakeFiles/HeartConverter.dir/Datasets/DatasetAbstract.cpp.o -c /home/victor/NetBeansProjects/CARPConverter/Datasets/DatasetAbstract.cpp",
+  "file": "/home/victor/NetBeansProjects/CARPConverter/Datasets/DatasetAbstract.cpp"
+},
+{
+  "directory": "/home/victor/NetBeansProjects/CARPConverter/build",
+  "command": "/usr/bin/g++   -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL)\" -DvtkRenderingVolume_AUTOINIT=\"1(vtkRenderingVolumeOpenGL)\" -I/usr/local/include/vtk-6.3 -isystem /usr/local/include    -g3 -gdwarf-2   -std=gnu++11 -o CMakeFiles/HeartConverter.dir/VtkParser.cpp.o -c /home/victor/NetBeansProjects/CARPConverter/VtkParser.cpp",
+  "file": "/home/victor/NetBeansProjects/CARPConverter/VtkParser.cpp"
+},
+{
+  "directory": "/home/victor/NetBeansProjects/CARPConverter/build",
+  "command": "/usr/bin/g++   -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL)\" -DvtkRenderingVolume_AUTOINIT=\"1(vtkRenderingVolumeOpenGL)\" -I/usr/local/include/vtk-6.3 -isystem /usr/local/include    -g3 -gdwarf-2   -std=gnu++11 -o CMakeFiles/HeartConverter.dir/Outputs/CarpPoints.cpp.o -c /home/victor/NetBeansProjects/CARPConverter/Outputs/CarpPoints.cpp",
+  "file": "/home/victor/NetBeansProjects/CARPConverter/Outputs/CarpPoints.cpp"
+},
+{
+  "directory": "/home/victor/NetBeansProjects/CARPConverter/build",
+  "command": "/usr/bin/g++   -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL)\" -DvtkRenderingVolume_AUTOINIT=\"1(vtkRenderingVolumeOpenGL)\" -I/usr/local/include/vtk-6.3 -isystem /usr/local/include    -g3 -gdwarf-2   -std=gnu++11 -o CMakeFiles/HeartConverter.dir/Outputs/CarpPurkinje.cpp.o -c /home/victor/NetBeansProjects/CARPConverter/Outputs/CarpPurkinje.cpp",
+  "file": "/home/victor/NetBeansProjects/CARPConverter/Outputs/CarpPurkinje.cpp"
+},
+{
+  "directory": "/home/victor/NetBeansProjects/CARPConverter/build",
+  "command": "/usr/bin/g++   -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL)\" -DvtkRenderingVolume_AUTOINIT=\"1(vtkRenderingVolumeOpenGL)\" -I/usr/local/include/vtk-6.3 -isystem /usr/local/include    -g3 -gdwarf-2   -std=gnu++11 -o CMakeFiles/HeartConverter.dir/Outputs/CarpElements.cpp.o -c /home/victor/NetBeansProjects/CARPConverter/Outputs/CarpElements.cpp",
+  "file": "/home/victor/NetBeansProjects/CARPConverter/Outputs/CarpElements.cpp"
+}
+]

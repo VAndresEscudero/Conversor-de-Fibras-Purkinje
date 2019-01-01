@@ -1,0 +1,7 @@
+Trabajo Final de Grado para el grado de Ingeniería Multimedia de la Universidad de Valencia.
+
+Esta aplicación capaz de convertir ficheros de VTK, una de las librerías gráficas más importantes actualmente, a ficheros reconocibles por CARP un simulador del corazón usado, entre otros, por la Universidad de Valencia para realizar estudios cardiacos.
+
+Este programa analiza cualquier fichero codificado en el formato propio de VTK, y es capaz de extraer toda su información geométrica (puntos, elementos, atributos, etc.) y generar los ficheros correspondientes con el formato y sintaxis de CARP. Por una parte los ficheros que describen la malla poligonal que define la geometría del corazón, que son el fichero de nodos donde se indexan y encuentran las coordenadas de los puntos, y el fichero de elementos que especifica las caras y/o polígonos del modelo del corazón; y por otra parte los ficheros de fibras de Purkinje donde se encuentran las vías especializadas de conducción eléctrica del corazón.
+
+También se ha tenido muy presente a lo largo de la realización del programa que tanto VTK como CARP son software en desarrollo activo por lo que sus funcionalidades pueden cambiar con el paso del tiempo. Por esto se ha tenido especial cuidado en hacer un programa flexible, fácil de mantener y modificar, para que pueda ser sencillo añadir nuevas funcionalidades, por ejemplo soporte para nuevos formatos de archivos, o adaptar el programa a los posibles cambios de los otros programas.
